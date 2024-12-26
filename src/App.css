@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Ensures padding/margin stays inside element boundaries */
+}
+
+html, body {
+    overflow-x: hidden; /* Prevent horizontal scrollbars */
+    max-width: 100%; /* Keep content within viewport */
+}
